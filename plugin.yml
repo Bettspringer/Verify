@@ -1,0 +1,7 @@
+name: Verify
+version: 1.2
+author: Bettspringer
+main: de.verify.main.Main
+commands:
+  verify:
+    description: Used to verify new players on you're server.
